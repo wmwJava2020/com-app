@@ -13,4 +13,5 @@ public class ZemaEntity {
 
     @Id
     String itemId;
+    String itemName;
 }
